@@ -2,8 +2,14 @@
 Information about the GTZAN dataset for "music genre recognition" research.
 
 - index.txt: an index into the contents of the datasets, specifically the artist and track title of most wav files.
-- 
-
+- Fault-filtered partitions used in Rodriguez-Algarra, Sturm, and Maruri-Aguilar, “[Analysing scattering-based music content analysis systems: Where’s the music?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdeYIvMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=KdeYIvMAAAAJ:sSrBHYA8nusC),” in Proc. ISMIR, 2016.
+  - test_filtered.txt
+  - test_stratified.txt
+  - train_filtered.txt
+  - train_stratified.txt
+  - valid_filtered.txt
+  - valid_stratified.txt
+	
 ## Relevant publications:
 - Sturm, "[The GTZAN dataset: Its contents, its faults, their effects on evaluation, and its future use](https://arxiv.org/abs/1306.1461)", arXiv:1306.1461, 2013.
 - Sturm, “[The state of the art ten years after A State of the Art: Future research in music information retrieval](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KdeYIvMAAAAJ&citation_for_view=KdeYIvMAAAAJ:EUQCXRtRnyEC),” Journal of New Music Research, vol. 43, no. 2, pp. 147 – 172, 2014.
